@@ -1,16 +1,23 @@
 ### Hi there 👋, I'm Kenneth!
 
-<!--
-**KennethTBarrett/KennethTBarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated and trained data scientist with an interest in energy, medicine, and marketing. I have extensive experience in digital marketing, specifically as a SEO specialist, and am passionate about human progress and helping others.
 
-Here are some ideas to get you started:
+### Data Science Skills
+- Data Analytics
+- Data Visualization
+- Predictive / Prescriptive Modeling
+- Data Engineering
+- Natural Language Processing
+- Machine Learning
+- SQL
+- MongoDB
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Digital Marketing Skills
+- Affiliate Marketing
+- WordPress
+- Google Analytics
+- Backlinking
+- Content Creation
+- Search Engine Optimization
+- Social Media
