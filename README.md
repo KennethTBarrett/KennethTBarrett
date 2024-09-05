@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Kenneth!
 
-![Kenneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennethtbarrett&show_icons=true&hide_border=true)
 
-I am a dedicated and trained data scientist with an interest in energy, medicine, and marketing. I have extensive experience in digital marketing, specifically as a SEO specialist, and am passionate about human progress and helping others.
+I am a dedicated and trained developer with an interest in energy, medicine, education, and marketing. I have extensive experience in digital marketing, specifically as a SEO specialist, and am passionate about human progress and helping others.
 
 ### Data Science Skills
 - Data Analytics
